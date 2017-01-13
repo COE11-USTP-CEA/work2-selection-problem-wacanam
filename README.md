@@ -12,7 +12,7 @@ The program loop until item was found
 As the program run this what should appear;
 
 
- #   General Marchandise	
+    General Marchandise	
     
 P-name          P-type          P-price
 Dove    	Shampoo 	7.0
@@ -35,7 +35,7 @@ This how actually look like.
 
 
 
-#      General Marchandise
+      General Marchandise
       
 P-name          P-type          P-price	#
 
@@ -55,7 +55,7 @@ What product you are looking for? :
 The some text are not properly aligned and I don't know how fix it. ehehe
 
 Program Features:
-1. Basic user interactive -  the program will ask some question to navigate the program.
+1.Basic user interactive -  the program will ask some question to navigate the program.
 Ex. You can input string.
 
 What product you are looking for? :
@@ -66,7 +66,7 @@ What product you are looking for? : no
 Exiting Program
 0 item(s) found
 -----------------------------------------
-2. Search - you can search the item you are looking for.
+2.Search - you can search the item you are looking for.
 Ex. Type "dove" it will give result accurately according to what it has.
 ------------------------------------------------------
 Type 'NO' to exit
@@ -75,7 +75,7 @@ Dove    Shampoo 7.0
 Dove    Soap    25.0
 2 item(s) found
 ------------------------------------------------------
-3. Not case sensitive - you can input text in any text case.
+3.Not case sensitive - you can input text in any text case.
 Ex. doVE, Dove, DOVE, dove
 	It will accept even if the case are jumbled
 -------------------------------------------------
@@ -85,7 +85,7 @@ Dove    Shampoo 7.0
 Dove    Soap    25.0
 2 item(s) found
 -------------------------------------------------
-4. General search - search items according to its type.
+4.General search - search items according to its type.
 Ex. Type "toothpaste"
 ------------------------------------------
 Type 'NO' to exit
