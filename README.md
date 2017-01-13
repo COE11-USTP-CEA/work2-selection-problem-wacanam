@@ -1,4 +1,5 @@
 Course: COE11, USTP CEA
+
 Instructor: Jay L. Ginete
 Student: Wave Cantery Ambray
 
