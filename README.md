@@ -5,33 +5,11 @@
 #Student: Wave Cantery Ambray
 
 Program discription:
+
 Selection problem - a java program which goal is to make selection of items as user specify.
 
 The program loop until item was found
 As the program run this what would appear;
-
-       General Marchandise				
-											
-P-name          P-type          P-price	
-											
-Dove    Shampoo 7.0						
-Dove    Soap    25.0						
-555     Tuna    30.0						
-Colgate Toothpaste      7.0				
-Ariel   Detergent       12.0				
-Close up        Toothpaste      7.0		
-Breeze  Detergent       14.0				
-XO      Candy   6.0						
-Neozep  Medicine        28.0					
-Maxx    Candy   1.0						
-											
-Type 'NO' to exit							
-What product you are looking for? :		
-											
-
-
-The some text are not properly aligned and I don't know how fix it. ehehe
-
 Program Features:
 1.Basic user interactive -  the program will ask some question to navigate the program.
 Ex. You can input string.
