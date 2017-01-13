@@ -8,8 +8,9 @@ Student: Wave Cantery Ambray
 	Selection problem - a java program which goal is to make selection of items as user specify.
 	The program loop until item was found.
 	
-	item.java containts all the methods need for the program
-	inventory.java has the main method 
+	item.java	 containts all the method needed for the program including constructor.
+	inventory.java - has the main method. i also use boolean variable, if statement, for each loop, while loop, braek & include
+			 java class Scanner to ask input from the user and keep it as a string.
 
 As the program run this what would appear;
 
