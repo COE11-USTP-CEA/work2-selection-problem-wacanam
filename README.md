@@ -1,14 +1,14 @@
-#Course: [COE11, USTP CEA]
+Course: [COE11, USTP CEA]
 
-#Instructor: Jay L. Ginete
+Instructor: Jay L. Ginete
 
-#Student: Wave Cantery Ambray
+Student: Wave Cantery Ambray
 
-#Program discription:
+Program discription:
 
-Selection problem - a java program which goal is to make selection of items as user specify.
+#Selection problem - a java program which goal is to make selection of items as user specify.
 
-The program loop until item was found
+	The program loop until item was found
 
 As the program run this what would appear;
 
