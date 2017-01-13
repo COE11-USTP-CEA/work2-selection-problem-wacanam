@@ -11,6 +11,19 @@ Selection problem - a java program which goal is to make selection of items as u
 The program loop until item was found
 
 As the program run this what would appear;
+		General Marchandise				
+
+	P-name          P-type          P-price	
+	Dove    	Shampoo 	7.0			
+	Dove   		Soap    	25.0		
+	555    		Tuna   		30.0		
+	Colgate 	Toothpaste      7.0			
+	Ariel  		Detergent	12.0		
+	Close up       	Toothpaste      7.0			
+	Breeze         	Detergent       14.0		
+	XO      	Candy   	6.0			
+	Neozep  	Medicine        28.0			
+	Maxx    	Candy   	1.0	
 
 #Program Features:
 
