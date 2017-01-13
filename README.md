@@ -11,6 +11,7 @@ Selection problem - a java program which goal is to make selection of items as u
 The program loop until item was found
 
 As the program run this what would appear;
+
 		General Marchandise				
 
 	P-name          P-type          P-price	
