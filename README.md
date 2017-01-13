@@ -1,15 +1,18 @@
-Course: [COE11, USTP CEA]
-Instructor: Jay L. Ginete, jaypax.ginete@must.edu.ph
-Student: Wave Cantery Ambray
+# Course: [COE11, USTP CEA]
 
-Program discription:
+# Instructor: Jay L. Ginete, jaypax.ginete@must.edu.ph
+
+# Student: Wave Cantery Ambray
+
+
+# Program discription:
 Selection problem - a java program which goal is to make selection of items as user specify.
 
 The program loop until item was found
 As the program run this what should appear;
 
 
-    General Marchandise	
+ #   General Marchandise	
     
 P-name          P-type          P-price
 Dove    	Shampoo 	7.0
@@ -32,7 +35,7 @@ This how actually look like.
 
 
 
-      General Marchandise
+#      General Marchandise
       
 P-name          P-type          P-price	#
 
