@@ -6,7 +6,10 @@ Student: Wave Cantery Ambray
 
 #Program discription:
 	Selection problem - a java program which goal is to make selection of items as user specify.
-	The program loop until item was found
+	The program loop until item was found.
+	
+	item.java containts all the methods need for the program
+	inventory.java has the main method 
 
 As the program run this what would appear;
 
