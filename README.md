@@ -9,11 +9,14 @@ Program discription:
 Selection problem - a java program which goal is to make selection of items as user specify.
 
 The program loop until item was found
+
 As the program run this what would appear;
+
 Program Features:
+
 1.Basic user interactive -  the program will ask some question to navigate the program.
 Ex. You can input string.
-	What product you are looking for? :
+What product you are looking for?:
 Type "no" if you have nothing to search on.
 -----------------------------------------
 Type 'NO' to exit
@@ -34,7 +37,7 @@ Dove    Soap    25.0
 Ex. doVE, Dove, DOVE, dove
 	It will accept even if the case are jumbled
 -------------------------------------------------
-	Type 'NO' to exit
+Type 'NO' to exit
 What product you are looking for? : doVE
 Dove    Shampoo 7.0
 Dove    Soap    25.0
