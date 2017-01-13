@@ -34,7 +34,6 @@ But because of its being epic
 This how actually look like.
 
 
-
       General Marchandise
       
 P-name          P-type          P-price	#
