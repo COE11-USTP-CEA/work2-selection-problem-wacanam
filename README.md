@@ -22,7 +22,7 @@ Type "no" if you have nothing to search on.
 Type 'NO' to exit
 What product you are looking for? : no
 Exiting Program
-0 item(s) found
+0item(s) found
 
 2. Search - you can search the item you are looking for.
 Ex. Type "dove" it will give result accurately according to what it has.
@@ -35,20 +35,20 @@ Dove    Soap    25.0
 
 3. Not case sensitive - you can input text in any text case.
 Ex. doVE, Dove, DOVE, dove
-	It will accept even if the case are jumbled
+It will accept even if the case are jumbled
 	
 Type 'NO' to exit
 What product you are looking for? : doVE
 Dove    Shampoo 7.0
 Dove    Soap    25.0
 2 item(s) found
--------------------------------------------------
+
 4. General search - search items according to its type.
 Ex. Type "toothpaste"
-------------------------------------------
+
 Type 'NO' to exit
 What product you are looking for? : toothpaste
 Colgate Toothpaste      7.0
 Close up        Toothpaste      7.0
 2 item(s) found
-------------------------------------------
+
